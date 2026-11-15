@@ -1,3 +1,7 @@
+[![make.fun · polymarket-faa-attribution-01](https://make.fun/badge/polymarket-faa-attribution-01.svg)](https://make.fun/bounty/polymarket-faa-attribution-01?utm_source=github&utm_medium=readme&utm_campaign=polymarket-faa-attribution-01)
+[![rank](https://make.fun/badge/polymarket-faa-attribution-01/binasalama12/makefun-polymarket-faa-attribution-01-w2/rank.svg)](https://make.fun/bounty/polymarket-faa-attribution-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=polymarket-faa-attribution-01)
+[![reward](https://make.fun/badge/polymarket-faa-attribution-01/binasalama12/makefun-polymarket-faa-attribution-01-w2/reward.svg)](https://make.fun/bounty/polymarket-faa-attribution-01?utm_source=github&utm_medium=readme&utm_campaign=polymarket-faa-attribution-01)
+
 # Lean EWMA forecaster (shrunk centre, 18h window)
 
 Entry w2 (wallet `hazel-harbor-12`) untuk kompetisi
